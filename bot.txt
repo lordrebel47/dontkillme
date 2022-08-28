@@ -1,0 +1,5 @@
+{
+	"ip":"Lordrebel.aternos.me
+	"port": "34713,
+	"name": "dontkillme
+}
